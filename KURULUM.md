@@ -1,1 +1,0 @@
-Rialo devnet test notu.
